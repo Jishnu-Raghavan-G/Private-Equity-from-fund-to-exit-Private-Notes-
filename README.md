@@ -56,8 +56,9 @@ I am documenting my learning journey publicly to improve my understanding and re
 
 This repository is based on my personal study of:
 
-**Vinit Rai**  
-*Private Equity 360°: The Complete Insider's Guide to Indian Private Equity – From Fund Formation to Exit.*
+ 
+The Book - *Private Equity 360°: The Complete Insider's Guide to Indian Private Equity – From Fund Formation to Exit.*
+By: **Vinit Rai** 
 
 All copyrights and intellectual property related to the original content belong to the author and publisher.
 
